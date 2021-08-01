@@ -1,0 +1,4 @@
+fr\stivane\interfaces\EmployeServiceRemote.class
+fr\stivane\services\EmployeService.class
+fr\stivane\enumeration\Role.class
+fr\stivane\entities\Employe.class
